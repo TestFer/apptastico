@@ -98,13 +98,13 @@ textarea {
 /* header styles */
 
 html {
-    background: rgb(82, 98, 110) url(../img/bg.png);
-
+    /*background: rgb(82, 98, 110) url(../img/bg.png);*/
+    background: red;
 }
 
 body {
     font-size: 14px;
-    font-family: "Droid Sans", sans-serif;
+    /*font-family: "Droid Sans", sans-serif;*/
     font-weight: 400;
 }
 
